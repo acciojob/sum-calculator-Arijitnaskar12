@@ -8,7 +8,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <Sum sum={sum} setSum={setSum}/>
-          <p>Sum:{sum}</p>
+          <p>Sum: {sum}</p>
     </div>
   )
 }
